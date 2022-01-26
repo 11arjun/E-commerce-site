@@ -1,0 +1,19 @@
+.backgroundslide {
+    background: url('../assets//images//404background.jpg');
+    background-size: cover;
+    background-position: 0%;
+    height: 75vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.message-box {
+    width: 400px;
+    height: 150px;
+    padding: 20px;
+    margin-top: 30px;
+    background-color: rgba(255, 255, 255, .9);
+    border-radius: 5px;
+    box-shadow: 0px 0px 2px #dd666666;
+}

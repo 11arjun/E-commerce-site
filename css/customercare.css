@@ -1,0 +1,16 @@
+.contact-form {
+  max-width: 500px;
+  margin: auto;
+}
+
+.text {
+  font-weight: 700;
+  font-size: 1.5em;
+  color: #990012;
+  text-align: center;
+}
+
+.text .letter {
+  display: inline-block;
+  line-height: 1em;
+}

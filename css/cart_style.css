@@ -1,0 +1,93 @@
+p {
+    font-size: 15px;
+}
+
+label {
+    user-select: none;
+}
+
+a, a:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+.card-bg {
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+.dlt-btn {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    user-select: none;
+}
+
+.cart-product {
+    background-color: #ffffff;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.product-img {
+    margin: 0 10px;
+}
+
+.product-img img {
+    width: 100px;
+}
+
+.value-button {
+    border: 1px solid #ddd;
+    margin: 0px;
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;
+    background: #eee;
+    text-align: center;
+}
+
+.value-button:hover {
+    cursor: pointer;
+}
+
+form #decrease {
+    margin-right: -4px;
+}
+
+form #increase {
+    margin-left: -4px;
+}
+
+input.number-count {
+    text-align: center;
+    border: none;
+    margin: 0px;
+    width: 30px;
+    height: 20px;
+    background-color: transparent;
+}
+
+input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+#voucher{
+    padding: 10px 20px;
+    outline: none !important;
+    width: 100%;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+
+.apply{
+    padding: 10px 20px;
+    width: 100%;
+    border: 1px solid #000;
+    margin-bottom: 20px;
+}
+
+.loadmore {
+    margin: 0;
+}
